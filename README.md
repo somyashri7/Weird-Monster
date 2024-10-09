@@ -23,4 +23,6 @@ Mouse and Keyboard Input Management:
 
 The Input object tracks keyboard and mouse state, storing information like key presses and mouse button states. Event listeners update this object, which is used within movement updates for interaction.
 
-Visit the Wierd Monster at file:///C:/Users/HP/monster/index.html
+# Monster Animation
+
+Check out the monster animation live [here](https://somyashri7.github.io/Weird-Monster/).
